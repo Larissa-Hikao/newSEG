@@ -84,7 +84,7 @@
                     <h2>Novo usuário</h2>
                 </div>
                 <div class="card-body">
-                    <form action="/novoUsuario" method="post">
+                    <form action="/novoUsugitario" method="post">
                         <div class="form-group">
                             <label for="nome">Nome</label>
                             <input type="nome" class="form-control" id="nome" aria-describedby="nome" placeholder="Insira o nome">
