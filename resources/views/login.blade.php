@@ -97,6 +97,11 @@
                     </form>
                 </div>
             </div>
+            
+            <div class="links">
+                    <a href="/">Início</a>
+                    <a href="/novoUsuario">Criar Usuario</a>
+                </div>
         </div>
     </body>
 </html>

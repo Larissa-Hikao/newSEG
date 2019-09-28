@@ -102,6 +102,11 @@
                     </form>
                 </div>
             </div>
+            
+            <div class="links">
+                    <a href="/">Início</a>
+                    <a href="/login">Login</a>
+                </div>
         </div>
     </body>
 </html>
